@@ -12,9 +12,3 @@
  ***user***
  email: uha1700013.ift@buk.edu.ng
  password: umar
-
-
-
-
-
- -----Yunux-----
